@@ -1,8 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\collision.js">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Beer Run\Assets\Standard Assets\2D\Scripts\Restarter2.cs">
     <Files>
-      <File FileName="Assets\collision.js" Line="1" Column="1" />
+      <File FileName="..\Beer Run\Assets\Standard Assets\2D\Scripts\Restarter2.cs" Line="12" Column="43" />
+      <File FileName="..\Beer Run\Assets\mainmenu.js" Line="10" Column="27" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
